@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="shortcut icon" type"image/x-icon" href="nbalogo.png" width="px">
+        <link rel="stylesheet" href="sty.css">
+        <meta charset="utf-8">
+        <meta name="keywords" content="basketball apparel">
+        <meta name="author" content="Riley Parkerson">
+        <title>Parkerson's Apparel</title>
+    </head>
+    <body>
+        <header><div class = "container">
+            <img src="nbalogo.png" width="55px" height="120px">
+            <h1><span class="highlight">Parkerson's</span> Apparel</h1>
+            <nav>
+                <ul>
+                    <li> <a href="RileyPractice.html" class="highlight">Home</a></li>
+                    <li> <a href="Gallery.html">Gallery</a>    </li>
+                    <li> <a href="Gallery.html">Gallery</a>    </li>
+                </ul>
+            </nav>
+        </div>
+        </header>
+        <section id="Showroom">
+            <div class="container">
+                <h1>Gameday Merch for every team in the NBA</h1>
+                <p>blah blah blah blah blah blah</p>
+            </div>
+        </section>
+        <section id ="jerseys">
+            <div class="jersey">
+                <img src="warriors.jpg" width="150px" height="150px">
+                <h3>Warriors Jersey</h3>
+            </div>
+            <div class="jersey">
+                <img src="rockets.jpg" width="150px" height="150px">
+                <h3>Warriors Jersey</h3>
+            </div>
+            <div class="jersey">
+                <img src="lakers.jpg" width="150px" height="150px">
+                <h3>Warriors Jersey</h3>
+            </div>
+            <div class="jersey">
+                <img src="celtics.jpg" width="150px" height="150px">
+                <h3>Warriors Jersey</h3>
+            </div>
+        </section>
+        <footer>
+            <div class="container">
+            <pre>   NBA Jerseys, Copryright &copy; 2018</pre>
+                <ul>
+                    <li>Written by Riley Parkerson <a href="mailto:riley.par@lvjusd.org">Email Me:</a></li>
+                    <li>Visit our School at <a href="https://www.granadahigh.com/">Granada High</a></li>
+                    <li>Visit our school's computer science department at <a href="staggeringbeauty.com">Staggering Beauty</a></li>
+                </ul>
+            </div>
+        </footer>
+    </body>
+</html>

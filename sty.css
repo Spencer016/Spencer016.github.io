@@ -1,0 +1,126 @@
+body{
+    font-family: Helvetica, Courier, Verdana ;
+    font-size: 25px;
+    text-align: center;
+}
+
+a{
+color:green;    
+}
+
+.container{
+    width:80%;
+    margin:auto;
+    overflow: hidden;
+
+}
+
+header{
+    border-top: red 3px solid;
+    background:rgb(0,0,145);
+    color:white;
+    border-bottom: red 3px solid;
+}
+
+header h1{
+    float: left;
+}
+
+nav{
+    float: right;
+    margin-top:10px;
+}
+
+header li{
+    display: inline;
+}
+
+header a{
+    text-decoration: none;
+    color:white;
+}
+footer a{
+    text-decoration: none;
+    color:red;
+}
+#Showroom{
+    background:url(Teams.jpg);
+    min-height:320px;
+    max-height:340px;
+    border-bottom: red 3px solid;
+}
+ul {
+  list-style: none;
+}
+footer{
+    font-size:15px;
+    background:rgb(0,0,145);
+    border-top: red 3px solid;
+    color:white;
+}
+header img{
+    position:absolute;
+    left: 75px;
+}
+.highlight{
+    color:red;
+    font-weight: bold;
+    
+    
+}
+a:hover{
+    font-weight:bold;
+    color:gray;
+    
+    
+    
+}
+#sidebar{
+    float:right;
+    width: 30%;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    
+    
+}
+#main{
+    min-height:320px;
+    max-height:340px;
+    
+}
+.dark{
+    padding:15px;
+    background:rgb(90,90,90);
+    color:white;
+    margin-top:10px;
+    margin-bottom:10px;
+    
+    
+}
+#sidebar2{
+    float:left;
+    width:20%;
+    margin-bottom:40px;
+    margin-right:40px;
+    margin-top:10px;
+    
+    
+}
+#main li{
+    list-style:none;
+    margin-top:30px;
+    font-size:18px;
+    
+}
+@media(max-width:720px){
+    header h1, nav{
+        color:purple;
+        float:none;
+        
+    }
+    
+}
+
+
+
+
